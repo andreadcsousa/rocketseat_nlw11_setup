@@ -22,4 +22,4 @@
 
 # :art: Layout PC
 
-<img src="./files/pc-resume.jpg" alt="" width="490%"> <img src="./files/add-habit.jpg" alt="" width="49%">
+<img src="./files/pc-resume.jpg" alt="" width="49%"> <img src="./files/add-habit.jpg" alt="" width="49%">
