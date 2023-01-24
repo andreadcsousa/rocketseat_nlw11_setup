@@ -13,7 +13,7 @@
 - Idealizador: Rocketseat
 - Projeto: NLW Setup
 - Lado da força: Front-End
-- Tipo: Next Level Week1
+- Tipo: Next Level Week 11
 - Etapa: Desafio Explorer
 
 # :rocket: Tecnologias
@@ -22,4 +22,4 @@
 
 # :art: Layout PC
 
-<img src="./files/pc-resume.jpg" alt="" width="100%">
+<img src="./files/pc-resume.jpg" alt="" width="50%"> <img src="./files/add-habit.jpg" alt="" width="50%">
