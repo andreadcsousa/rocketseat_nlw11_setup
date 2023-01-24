@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  :white_check_mark: <a href="https://andreadcsousa.github.io/rocketseat_nlw_setup" target="_blank">Veja a página</a>
+  :white_check_mark: <a href="https://andreadcsousa.github.io/rocketseat_nlw11_setup" target="_blank">Veja a página</a>
  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   :white_check_mark: <a href="https://rocketseat.com.br/" target="_blank">Conheça a Rocketseat</a>
 </p>
